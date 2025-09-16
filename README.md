@@ -2,6 +2,10 @@
 
 A modern, web-based space shooter game built with Python and Pygame, featuring smooth gameplay, animated explosions, and a complete menu system. Play directly in your browser!
 
+
+<img width="1594" height="931" alt="{A5ED6D04-CA41-4F7F-8A23-3F6425FF14FC}" src="https://github.com/user-attachments/assets/de36581a-895f-45ac-83ba-d105539d7bd1" />
+
+
 ## 🎮 [Play Now on Vercel](https://space-shooter-five-liart.vercel.app/)
 
 ## ✨ Features
